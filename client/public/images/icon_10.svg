@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  
+      <defs>
+        <radialGradient id="bg10" cx="30%" cy="30%">
+          <stop offset="0%" style="stop-color:#e8a6ff;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#9b59b6;stop-opacity:1" />
+        </radialGradient>
+        <filter id="shadow10">
+          <feDropShadow dx="2" dy="4" stdDeviation="3" flood-opacity="0.3"/>
+        </filter>
+      </defs>
+      <circle cx="100" cy="100" r="90" fill="url(#bg10)" filter="url(#shadow10)"/>
+      <circle cx="100" cy="100" r="85" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="3"/>
+    
+  
+      <text x="100" y="115" 
+            font-family="Apple Color Emoji, Segoe UI Emoji, sans-serif" 
+            font-size="80" 
+            text-anchor="middle" 
+            dominant-baseline="middle">💎</text>
+    
+</svg>

@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Simulation results (large data)
+simulation-results/
+
+# Build artifacts
+dist/
